@@ -4,6 +4,12 @@
 
 <img width="1490" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/c8a392e4-00e9-4e8f-96b2-c82c68dedae1">
 
+## 交流群和通知频道
+
+欢迎加入我们的交流群 [Preferred IP Push Chat](https://t.me/Preferred_IP_Push_Chat)
+
+同时，你可以关注我们的通知频道 [Preferred IP Push](https://t.me/Preferred_IP_Push)
+
 ## 如何使用：
 
 ```plaintext
