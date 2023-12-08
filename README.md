@@ -1,8 +1,8 @@
 # WeChat Steps Modification API
 
-## 简介
-
 该项目是一个用于修改微信运动步数的 API，通过操作小米运动（Zepp Life）实现步数刷取，并将步数同步至微信运动。
+
+<img width="1490" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/c8a392e4-00e9-4e8f-96b2-c82c68dedae1">
 
 ## 如何使用：
 
