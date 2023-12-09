@@ -2,7 +2,8 @@
 
 该项目是一个用于修改微信运动步数的 API，通过操作小米运动（Zepp Life）实现步数修改，并将步数同步至微信运动。
 
-<img width="1490" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/c8a392e4-00e9-4e8f-96b2-c82c68dedae1">
+[<img width="1490" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/c8a392e4-00e9-4e8f-96b2-c82c68dedae1">
+](https://go.030101.xyz/https://cdn.jsdelivr.net/gh/png-dot/pngpng@main/20231209-124229-jy13ga.jpg)
 
 ## 交流群和通知频道
 
@@ -15,6 +16,7 @@
 ```plaintext
 https://steps.030101.xyz/api?account=账号&password=密码&steps=步数
 ```
+如果 <code>steps</code> 参数为问号（<code>steps=?</code>），系统将自动生成随机步数（30000 到 80000 之间）。
 
 ## 实现原理：
 
