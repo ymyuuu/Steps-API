@@ -8,8 +8,8 @@
 
 ## 交流群和通知频道
 
-- 群聊: https://t.me/HerosHub
-- 频道: https://t.me/HerosMsg
+- 群聊: [HerosHub](https://t.me/HerosHub)
+- 频道: [HerosMsg](https://t.me/HerosMsg)
 
 ## 如何使用：
 
