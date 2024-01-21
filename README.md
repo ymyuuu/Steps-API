@@ -8,9 +8,8 @@
 
 ## 交流群和通知频道
 
-欢迎加入我们的交流群 [Preferred IP Push Chat](https://t.me/Preferred_IP_Push_Chat)
-
-同时，你可以关注我们的通知频道 [Preferred IP Push](https://t.me/Preferred_IP_Push)
+- 群聊: https://t.me/HerosHub
+- 频道: https://t.me/HerosMsg
 
 ## 如何使用：
 
