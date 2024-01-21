@@ -15,7 +15,7 @@
 ## 如何使用：
 
 ```plaintext
-https://steps.030101.xyz/api?account=账号&password=密码&steps=步数
+https://steps.api.030101.xyz/api?account=账号&password=密码&steps=步数
 ```
 如果 <code>steps</code> 参数为问号（<code>steps=?</code>），系统将自动生成随机步数（30000 到 80000 之间）。
 
