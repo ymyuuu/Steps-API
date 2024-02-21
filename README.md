@@ -35,14 +35,15 @@
 **在使用本服务前务必审慎阅读并理解本免责声明的全部内容，使用本服务将被视为对本免责声明的接受和遵守。**
 
 </details>
-该项目是一个用于修改微信运动步数的 API，通过操作小米运动（Zepp Life）实现步数修改，并将步数同步至微信运动。
 
-<img width="1475" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/a5aeb9e6-36b6-484d-8c01-7af98a5a857a">
+该项目是一个用于修改微信运动步数的 API，通过操作小米运动（Zepp Life）实现步数修改，并将步数同步至微信运动。
 
 ## 交流群和通知频道
 
 - 群聊: [HeroCore](https://t.me/HeroCore)
 - 频道: [HeroMsg](https://t.me/HeroMsg)
+
+<img width="1475" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/a5aeb9e6-36b6-484d-8c01-7af98a5a857a">
 
 ## Dashboard：
 
