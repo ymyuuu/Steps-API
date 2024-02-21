@@ -48,6 +48,7 @@
 ## Dashboard：
 
 您可以访问 [Dashboard](https://steps.api.030101.xyz/dash) 通过输入账号和密码直观地修改步数，并实时查看修改结果。
+
 <img width="1476" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/14ddab0f-1664-44f9-85ab-008ba7cbe4ce">
 
 ## Help Documents：
