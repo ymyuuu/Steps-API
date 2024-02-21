@@ -43,8 +43,6 @@
 - 群聊: [HeroCore](https://t.me/HeroCore)
 - 频道: [HeroMsg](https://t.me/HeroMsg)
 
-<img width="1475" alt="image" src="https://github.com/ymyuuu/Steps-API/assets/135582157/a5aeb9e6-36b6-484d-8c01-7af98a5a857a">
-
 ## Dashboard：
 
 您可以访问 [Dashboard](https://steps.api.030101.xyz/dash) 通过输入账号和密码直观地修改步数，并实时查看修改结果。
