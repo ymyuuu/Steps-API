@@ -58,7 +58,7 @@ https://steps.api.030101.xyz/api?account=账号&password=密码&steps=步数
 
 ## 使用条件：
 
-1. 下载 [Zepp Life](https://apps.apple.com/cn/app/zepp-life-%E5%8E%9F%E5%B0%8F%E7%B1%B3%E8%BF%90%E5%8A%A8/id938688461) （iOS为例）并注册小米运动（Zepp Life）。
+1. 下载 [Zepp Life](https://apps.apple.com/cn/app/zepp-life-%E5%8E%9F%E5%B0%8F%E7%B1%B3%E8%BF%90%E5%8A%A8/id938688461)（iOS为例）并注册小米运动（Zepp Life）。
 2. 在微信中启用微信运动功能。进入微信点击顶部搜索栏，输入"微信运动"，然后进行开启。
 3. 在 Zepp Life 中将账户与微信运动绑定。进入 Zepp Life 点击"我的"，选择"第三方接入"，点击"微信"，最后扫码完成绑定。
 
